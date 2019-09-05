@@ -1,0 +1,39 @@
+
+body{
+padding-left: 20px;
+
+}
+.blue-background {
+  background-color: blue;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+#initially-hidden {
+  display: none;
+}
+
+.clickable1 {
+  color: blue;
+  }
+.clickable1:hover {
+  text-decoration: underline;
+  cursor: pointer
+}
+.clickable2 {
+  color: blue;
+  }
+.clickable2:hover {
+  text-decoration: underline;
+  cursor: pointer
+}
+
+.whiteText {
+  color: white;
+}
